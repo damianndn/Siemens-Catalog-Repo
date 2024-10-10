@@ -1,0 +1,5 @@
+Article Number (Market Facing Number)
+Product Description
+Product Lifecycle (PLM)
+Estimated dispatch time (Working Days)
+Country of origin
